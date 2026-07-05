@@ -1,7 +1,7 @@
 {
   "name": "hello-agent",
   "version": "0.1.0",
-  "description": "50 行跑通一个最小 AI agent —— 配套小册《从零打造一个 AI Agent CLI》开篇示例",
+  "description": "Al-Agent-CLI",
   "type": "module",
   "private": true,
   "scripts": {
